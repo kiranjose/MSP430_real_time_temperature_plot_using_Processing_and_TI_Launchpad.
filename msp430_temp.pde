@@ -1,8 +1,4 @@
-// Graphing sketch
- // This program takes ASCII-encoded strings
- // from the serial port at 9600 baud and graphs them. It expects values in the
- // range 0 to 1023, followed by a newline, or newline and carriage return
- 
+// Graphing sketch for MSP430--Original from Arduino website (http://www.arduino.cc/en/Tutorial/Graph)
  // Created 20 Apr 2005
  // Updated 18 Jan 2008
  // by Tom Igoe
